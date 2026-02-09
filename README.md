@@ -60,19 +60,19 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanKaizokuO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanKaizokuO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> 
+</div>  -->
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://www.linkedin.com/in/tanishq-bhattacharjee-44ba7b325/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div> 
+</div>  -->
 
 ###
 
@@ -89,3 +89,15 @@
 </div>
 
 ###
+
+## 💻 What I've Built
+
+### **AnchorAI** (Local RAG System)
+> *A smart chat interface for your Obsidian/Markdown vault.*
+An intelligent knowledge retrieval system that chunks notes based on semantic similarity. It features a complete RAG pipeline including **Semantic Ingestion**, **Query Rewriting**, and **Result Re-ranking** to ensure accurate answers grounded in your data.
+* **Tech:** `LangChain` `ChromaDB` `Ollama` `Hugging Face` `Gradio`
+
+### **Fast Neural Style Transfer** (Computer Vision)
+> *Real-time artistic styling for images and video.*
+A PyTorch implementation capable of processing video streams at ~0.5 seconds per frame on modern GPUs. It includes a full training suite to create custom artistic models and a web-based drag-and-drop interface for users.
+* **Tech:** `PyTorch` `OpenCV` `Flask` `VGG19` `Python`
