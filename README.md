@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently working on a file sharing system<br>📚 I'm currently learning Next.js  <br>🤔 I'm looking for help with DevOps<br>💬 Ask me about AI<br>📫 How to reach me: tanishqbhattacharjee22@gmail.com</p>
+<p align="left">📚 I'm currently learning AgenticAI  <br>🤔 I'm looking for help with DevOps<br>💬 Ask me about AI<br>📫 How to reach me: tanishqbhattacharjee22@gmail.com</p>
 
 ###
 
