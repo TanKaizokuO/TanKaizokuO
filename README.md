@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tanidhq, and I'm an engineering student at IIIT Naya Raipur.</h2>
+<h2 align="left">Hi 👋! My name is Tanishq, and I'm an engineering student at IIIT Naya Raipur.</h2>
 
 ###
 
