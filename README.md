@@ -90,14 +90,143 @@
 
 ###
 
-## 💻 What I've Built
+# 💻 What I've Built
 
-### **AnchorAI** (Local RAG System)
-> *A smart chat interface for your Obsidian/Markdown vault.*
-An intelligent knowledge retrieval system that chunks notes based on semantic similarity. It features a complete RAG pipeline including **Semantic Ingestion**, **Query Rewriting**, and **Result Re-ranking** to ensure accurate answers grounded in your data.
-* **Tech:** `LangChain` `ChromaDB` `Ollama` `Hugging Face` `Gradio`
+## ⚖️ AI Courtroom Simulation (Multi-Agent AI + RAG)
 
-### **Fast Neural Style Transfer** (Computer Vision)
+> *A minimal AI courtroom that simulates legal reasoning using multiple GPT agents.*
+
+An AI-powered courtroom pipeline that orchestrates **three specialized agents — Prosecutor, Defense Attorney, and Judge —** to analyze legal scenarios and reach a verdict. Each argument is grounded using a **Retrieval-Augmented Generation (RAG) pipeline** that retrieves relevant legal principles before the agents reason about the case.
+
+### Key Features
+
+* **Multi-Agent System**
+
+  * Prosecutor: argues guilt
+  * Defense: argues innocence
+  * Judge: evaluates both sides and produces a verdict with confidence score
+* **Retrieval-Augmented Generation**
+
+  * FAISS vector search over a legal principles corpus
+  * Embeddings using `all-MiniLM-L6-v2`
+* **Structured Agent Reasoning**
+
+  * Each agent follows a strict reasoning and output schema
+* **Interactive CLI Trial Simulation**
+
+### Tech Stack
+
+`Python` `OpenAI API` `FAISS` `Sentence Transformers` `RAG` `Prompt Engineering`
+
+---
+
+# 🧠 DiffSense (AI Git Commit Automation CLI)
+
+> *An AI-powered developer tool that automatically writes semantic git commits.*
+
+DiffSense analyzes your **git diff** and uses **LLMs to generate high-quality commit messages** that follow the **Conventional Commits specification**.
+
+It can function either as a **manual CLI assistant** or an **autonomous background daemon** that continuously tracks your work and commits changes automatically.
+
+### Key Features
+
+* **Diff Analysis**
+
+  * Parses staged or unstaged `git diff`
+  * Understands code changes semantically
+
+* **AI Commit Message Generation**
+
+  * Generates messages in the format
+    `<type>(scope): summary`
+
+* **Full Git Automation**
+
+  * Stage files
+  * Generate commit message
+  * Commit
+  * Push to remote
+
+* **Auto-Commit Daemon**
+
+  * Automatically commits and pushes changes **every minute**
+
+* **Multiple LLM Providers**
+
+  * OpenAI
+  * NVIDIA (`meta/llama-3.1-8b-instruct`)
+
+### Tech Stack
+
+`Python` `OpenAI API` `Git` `CLI Development` `LLMs` `YAML Config`
+
+---
+
+# 📚 AnchorAI (Local Knowledge RAG System)
+
+> *A smart chat interface for your personal knowledge base.*
+
+AnchorAI is a **local Retrieval-Augmented Generation system** designed for **Obsidian or Markdown vaults**. It enables intelligent querying of personal knowledge using semantic retrieval and reranking.
+
+### Key Features
+
+* **Semantic Ingestion**
+
+  * Smart chunking of Markdown notes
+  * Embedding generation for efficient retrieval
+
+* **Query Rewriting**
+
+  * Reformulates user queries to improve search quality
+
+* **Result Re-Ranking**
+
+  * Reorders retrieved results to maximize relevance
+
+* **Local LLM Support**
+
+  * Works entirely offline using **Ollama**
+
+* **Interactive Chat Interface**
+
+  * Query your notes conversationally
+
+### Tech Stack
+
+`LangChain` `ChromaDB` `Ollama` `Hugging Face` `Gradio` `Python`
+
+---
+
+# 🎨 Fast Neural Style Transfer (Computer Vision)
+
 > *Real-time artistic styling for images and video.*
-A PyTorch implementation capable of processing video streams at ~0.5 seconds per frame on modern GPUs. It includes a full training suite to create custom artistic models and a web-based drag-and-drop interface for users.
-* **Tech:** `PyTorch` `OpenCV` `Flask` `VGG19` `Python`
+
+A PyTorch-based implementation of **fast neural style transfer** that can stylize images and live video streams in real time.
+
+The system includes a **full training pipeline for custom styles** and a **web-based interface** for drag-and-drop usage.
+
+### Key Features
+
+* **Real-Time Inference**
+
+  * ~0.5 seconds per frame on modern GPUs
+
+* **Video Stylization**
+
+  * Apply artistic filters to live video streams
+
+* **Custom Style Training**
+
+  * Train new models using different artworks
+
+* **Web Interface**
+
+  * Drag-and-drop UI for stylizing images and videos
+
+### Tech Stack
+
+`PyTorch` `OpenCV` `Flask` `VGG19` `Computer Vision` `Python`
+
+---
+
+
