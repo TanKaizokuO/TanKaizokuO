@@ -134,7 +134,7 @@ Built a hybrid post-quantum secure communication platform combining classical (X
  
 ## 🎨 Renkin (AI Frontend Design Agent)
  
-Built a developer CLI that uses LLM reasoning to bootstrap, critique, and iteratively refine production-ready frontends, enforcing rules against 44 known generic UI anti-patterns and auditing accessibility via axe-core, all driven by localized markdown design state.
+Built a developer CLI tool designed to assist in generating, iterating, and polishing premium web frontends by codifying design principles and product context into structured markdown files, enforcing rules against 44 known generic UI anti-patterns and auditing accessibility via axe-core, all driven by localized markdown design state.
  
 **Tech:** `CLI` `Markdown State` `Axe-core` `CSS Parsers`
 
