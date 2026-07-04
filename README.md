@@ -91,44 +91,52 @@
 ###
 
 # 💻 What I've Built
-
+ 
+## 🤖 Nakama-kun (Autonomous AI Software Engineering Agent)
+ 
+Built a production-grade autonomous coding agent using multi-agent orchestration, RAG, and Model Context Protocol (MCP), with repository-aware retrieval, long-term memory, and intelligent tool routing across a Rust CLI harness and Python companion workspace. Specialized agents handle planning, code generation, verification, and self-review to solve complex software engineering tasks end-to-end.
+ 
+**Tech:** `Rust` `Python` `RAG` `MCP` `Multi-Agent Systems`
+ 
+---
+ 
 ## 🔬 Research Assistant (Agentic Research Platform)
-
+ 
 Built an AI-powered research copilot that aggregates information from web search, arXiv, and Semantic Scholar to generate literature reviews, research briefs, and citation analysis using RAG pipelines.
-
+ 
 **Tech:** `FastAPI` `LangChain` `ChromaDB` `NVIDIA NIM` `RAG` `LLMs`
-
+ 
 ---
-
-## ⚖️ AI Courtroom Simulation (Multi-Agent AI + RAG)
-
-Designed a multi-agent legal reasoning system where Prosecutor, Defense, and Judge agents retrieve legal knowledge and collaborate to produce evidence-grounded verdicts.
-
-**Tech:** `Python` `FAISS` `Sentence Transformers` `OpenAI API` `Multi-Agent Systems` `RAG`
-
+ 
+## 📊 SybilSQL (AI Database Agent)
+ 
+Built an AI-powered database agent that converts natural language into secure SQL using LangChain ReAct agents and conversational memory, enforcing access control at the database kernel level with PostgreSQL Row-Level Security and streaming reasoning traces to the client in real time.
+ 
+**Tech:** `Python` `PostgreSQL RLS` `LangChain` `React` `SSE`
+ 
 ---
-
-## 🧠 DiffSense (AI Developer CLI)
-
-Developed an autonomous Git assistant that analyzes code diffs and generates semantic Conventional Commit messages using LLMs, with optional automated commit and push workflows.
-
-**Tech:** `Python` `Git` `OpenAI API` `NVIDIA NIM` `CLI Development`
-
+ 
+## ⚔️ Crack_DSA (AI DSA Interview Coach)
+ 
+Built a full-stack AI-powered DSA interview coaching platform that enforces a structured thinking loop (Understand → Think → Explain → Validate → Improve) instead of handing over solutions, backed by secure sandboxed code execution and a conversational interview agent.
+ 
+**Tech:** `FastAPI` `Vanilla JS` `NVIDIA NIM` `LangChain` `E2B Sandbox`
+ 
 ---
-
-## 📚 AnchorAI (Personal Knowledge RAG)
-
-Built a local-first knowledge assistant that enables semantic retrieval, reranking, and conversational querying over Markdown and Obsidian notes using local LLMs.
-
-**Tech:** `LangChain` `ChromaDB` `Ollama` `Sentence Transformers` `RAG`
-
+ 
+## 🔐 AI-Driven Quantum-Safe Secure Communication Platform
+ 
+Built a hybrid post-quantum secure communication platform combining classical (X25519) and lattice-based (ML-KEM-768) cryptography with an AI-driven key management and threat detection engine running on local LLMs.
+ 
+**Tech:** `FastAPI` `Next.js` `WebSockets` `X25519` `ML-KEM-768` `Ollama`
+ 
 ---
-
-## ⚙️ C-Learn (ML Library in Pure C)
-
-Implemented core machine learning algorithms from scratch in C, including matrix operations, regression models, optimizers, and neural network components.
-
-**Tech:** `C99` `Machine Learning` `Linear Algebra` `Systems Programming`
+ 
+## 🎨 Renkin (AI Frontend Design Agent)
+ 
+Built a developer CLI that uses LLM reasoning to bootstrap, critique, and iteratively refine production-ready frontends, enforcing rules against 44 known generic UI anti-patterns and auditing accessibility via axe-core, all driven by localized markdown design state.
+ 
+**Tech:** `CLI` `Markdown State` `Axe-core` `CSS Parsers`
 
 ---
 
