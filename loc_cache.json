@@ -49,16 +49,6 @@
   "deletions": 340,
   "oid": "6f4d843173f06aca2d5540715a58e2b1436cd141"
  },
- "TanKaizokuO/EndGame": {
-  "additions": 28691,
-  "deletions": 2555,
-  "oid": "1a51f8cded12d2341f3f208fea9cb29a6e9a8697"
- },
- "TanKaizokuO/Face_Recognition-based_Attendance_Management_System": {
-  "additions": 830,
-  "deletions": 180,
-  "oid": "064aab9776c88505b593f2dc34569c58613240dc"
- },
  "TanKaizokuO/Fast-NST": {
   "additions": 2590,
   "deletions": 0,
@@ -88,11 +78,6 @@
   "additions": 5470,
   "deletions": 3,
   "oid": "bd62763d09b02d51d8bbeebaf5f5d897167a03c2"
- },
- "TanKaizokuO/QLoraAMLNarrative": {
-  "additions": 3400,
-  "deletions": 25,
-  "oid": "1c102698a0e488db2064c8c532315db62082b10d"
  },
  "TanKaizokuO/QueryPilot_Backend": {
   "additions": 1010,
@@ -150,14 +135,9 @@
   "oid": "1b7c8e35b506ecc2a2cfec65443dc5c050f0daaf"
  },
  "TanKaizokuO/TanKaizokuO": {
-  "additions": 444,
-  "deletions": 349,
-  "oid": "3bee23fd2773f88b57f18d451f04c55a12196aee"
- },
- "TanKaizokuO/TriRAG": {
-  "additions": 5943,
-  "deletions": 292,
-  "oid": "7c5b86f91989f2d33b10ce4ba6f650542509cc12"
+  "additions": 1367,
+  "deletions": 434,
+  "oid": "eff323529be784de25be92aa50dbdc3210ded713"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -168,11 +148,6 @@
   "additions": 3376,
   "deletions": 0,
   "oid": "0147eea128d65183a24f18a26f2e99c4a15caacf"
- },
- "TanKaizokuO/agrason_samaj": {
-  "additions": 657,
-  "deletions": 76,
-  "oid": "44905be3d90e4f91f966a0777ec51ddde0edc1fd"
  },
  "TanKaizokuO/backend-curriculum": {
   "additions": 77292,
@@ -248,11 +223,6 @@
   "additions": 1273,
   "deletions": 604,
   "oid": "3ba2c1d5b84816965feb2a6f5755c33f73a31cf1"
- },
- "TanKaizokuO/pass-store": {
-  "additions": 162,
-  "deletions": 0,
-  "oid": "35bc2dd878b580d0a8f0a8156a88e44b740d7a64"
  },
  "TanKaizokuO/portfolio": {
   "additions": 11976,
