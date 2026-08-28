@@ -1,0 +1,292 @@
+{
+ "TanKaizokuO/AI-Driven-Quantum-Safe-Secure-Communication-Platform-": {
+  "additions": 14554,
+  "deletions": 1249,
+  "oid": "308ac8cd714462c3e917b9da5a31fb6c5ff24111"
+ },
+ "TanKaizokuO/Aegis": {
+  "additions": 170017,
+  "deletions": 165347,
+  "oid": "5672fcd292cbf5aa7b521cdc824f10732a87556e"
+ },
+ "TanKaizokuO/Agents": {
+  "additions": 410894,
+  "deletions": 530,
+  "oid": "d5277dba0101354eb7e3b1514264653481d3ceed"
+ },
+ "TanKaizokuO/AnchorAI": {
+  "additions": 1030,
+  "deletions": 333,
+  "oid": "f5f366f15664f769334704dbacfda2d7e3de1e17"
+ },
+ "TanKaizokuO/Attendence-Website": {
+  "additions": 1119,
+  "deletions": 0,
+  "oid": "03731069552f8491218e8e6a1024b97261d82498"
+ },
+ "TanKaizokuO/BioMedical_QA": {
+  "additions": 2168970,
+  "deletions": 7915,
+  "oid": "5e2b5dc1a57bdb4a03a7bf66cd6812838da581ab"
+ },
+ "TanKaizokuO/C-Learn": {
+  "additions": 6740,
+  "deletions": 456,
+  "oid": "c3a5ef5b7007218408799994c0b45185e7f37dcb"
+ },
+ "TanKaizokuO/Cognisphere": {
+  "additions": 24746,
+  "deletions": 1104,
+  "oid": "ba4361368effe5c5c48b3c182c85c9ab13dc061d"
+ },
+ "TanKaizokuO/Crack_DSA": {
+  "additions": 8500,
+  "deletions": 950,
+  "oid": "5eeb1a2382803781355acdf3fdcbfdb547db706e"
+ },
+ "TanKaizokuO/DiffSense": {
+  "additions": 1470,
+  "deletions": 340,
+  "oid": "6f4d843173f06aca2d5540715a58e2b1436cd141"
+ },
+ "TanKaizokuO/EndGame": {
+  "additions": 28691,
+  "deletions": 2555,
+  "oid": "1a51f8cded12d2341f3f208fea9cb29a6e9a8697"
+ },
+ "TanKaizokuO/Face_Recognition-based_Attendance_Management_System": {
+  "additions": 830,
+  "deletions": 180,
+  "oid": "064aab9776c88505b593f2dc34569c58613240dc"
+ },
+ "TanKaizokuO/Fast-NST": {
+  "additions": 2590,
+  "deletions": 0,
+  "oid": "1a957a7e12735475f4a8468c25a35a375fdb2f9e"
+ },
+ "TanKaizokuO/Fitness-Tracker": {
+  "additions": 17948,
+  "deletions": 1809,
+  "oid": "b67081f9558ad73c5b67061183a3a390ace8619e"
+ },
+ "TanKaizokuO/IIIT-NR-Student-hub": {
+  "additions": 83446,
+  "deletions": 3092,
+  "oid": "1c1c03faae49df369c04c93320387ff15bbc6fcb"
+ },
+ "TanKaizokuO/MCP_2": {
+  "additions": 2718,
+  "deletions": 39,
+  "oid": "7ced7eb8800e30a371fcd72ff1ddf216ea987148"
+ },
+ "TanKaizokuO/Notes": {
+  "additions": 39911,
+  "deletions": 655,
+  "oid": "eda9e97a165178472ec8e499be7f62181be431d7"
+ },
+ "TanKaizokuO/ObsidianRAG": {
+  "additions": 5470,
+  "deletions": 3,
+  "oid": "bd62763d09b02d51d8bbeebaf5f5d897167a03c2"
+ },
+ "TanKaizokuO/QLoraAMLNarrative": {
+  "additions": 3400,
+  "deletions": 25,
+  "oid": "1c102698a0e488db2064c8c532315db62082b10d"
+ },
+ "TanKaizokuO/QueryPilot_Backend": {
+  "additions": 1010,
+  "deletions": 1,
+  "oid": "02fe4f2c7347f09b3a0771e8beda15daa1920aba"
+ },
+ "TanKaizokuO/QueryPilot_Frontend": {
+  "additions": 1107,
+  "deletions": 174,
+  "oid": "f96cc99490278624c072b035a41a247c28a60cd4"
+ },
+ "TanKaizokuO/Renkin": {
+  "additions": 4898,
+  "deletions": 620,
+  "oid": "05d4bc70dd575e96b1a8387a06eb5bc0621730fb"
+ },
+ "TanKaizokuO/Secure-File-Sharing-System-Frontend": {
+  "additions": 834,
+  "deletions": 24,
+  "oid": "8db04b72089f0a331faf346c0cb369c89e705fec"
+ },
+ "TanKaizokuO/SentimentAnalysis": {
+  "additions": 659,
+  "deletions": 0,
+  "oid": "d2716eb0394e9a530a3e8cbed2e63287d87c81ff"
+ },
+ "TanKaizokuO/ShellPa": {
+  "additions": 5874,
+  "deletions": 183,
+  "oid": "32c2f1a358689e7c8496ad3a6eec3e9eea26745a"
+ },
+ "TanKaizokuO/Sibyl_SQL": {
+  "additions": 21975,
+  "deletions": 2935,
+  "oid": "1f971e8e1f93cf442e8d3337933d2d8c0f2558f4"
+ },
+ "TanKaizokuO/Skin-Cancer-Detection": {
+  "additions": 4854,
+  "deletions": 3658,
+  "oid": "119651034d0f5c2d94895b04e2d711006ef7b65e"
+ },
+ "TanKaizokuO/Specter-Verdict": {
+  "additions": 1815,
+  "deletions": 736,
+  "oid": "7cfb14612a257b967cff126673c9f8b646d069a1"
+ },
+ "TanKaizokuO/SplitMint": {
+  "additions": 11840,
+  "deletions": 0,
+  "oid": "1802e7e7d466d3a67af9878043381bf169287e71"
+ },
+ "TanKaizokuO/Streamlitapp": {
+  "additions": 416,
+  "deletions": 29,
+  "oid": "1b7c8e35b506ecc2a2cfec65443dc5c050f0daaf"
+ },
+ "TanKaizokuO/TanKaizokuO": {
+  "additions": 444,
+  "deletions": 349,
+  "oid": "3bee23fd2773f88b57f18d451f04c55a12196aee"
+ },
+ "TanKaizokuO/TriRAG": {
+  "additions": 5943,
+  "deletions": 292,
+  "oid": "7c5b86f91989f2d33b10ce4ba6f650542509cc12"
+ },
+ "TanKaizokuO/V-Epsilon": {
+  "additions": 209,
+  "deletions": 1,
+  "oid": "ace8b8439e9a04870b032286ad5037389ce0a17f"
+ },
+ "TanKaizokuO/VividStream": {
+  "additions": 3376,
+  "deletions": 0,
+  "oid": "0147eea128d65183a24f18a26f2e99c4a15caacf"
+ },
+ "TanKaizokuO/agrason_samaj": {
+  "additions": 657,
+  "deletions": 76,
+  "oid": "44905be3d90e4f91f966a0777ec51ddde0edc1fd"
+ },
+ "TanKaizokuO/backend-curriculum": {
+  "additions": 77292,
+  "deletions": 820,
+  "oid": "e1413949af97c1984465fb021c85080fff9ec5cc"
+ },
+ "TanKaizokuO/devops": {
+  "additions": 16531,
+  "deletions": 0,
+  "oid": "dc8e4a01f44efe03a4cfac8957ffab041f618924"
+ },
+ "TanKaizokuO/dl-specialization-andrew-ng": {
+  "additions": 6586,
+  "deletions": 0,
+  "oid": "dd15f303f2204d5a76dc846320b73d2d24ab9e0f"
+ },
+ "TanKaizokuO/first_try_at_a_compiler": {
+  "additions": 273,
+  "deletions": 0,
+  "oid": "c95432156692421caf767b9f02fb9f64b8dddbde"
+ },
+ "TanKaizokuO/learning-langchain": {
+  "additions": 10133,
+  "deletions": 32,
+  "oid": "9b71b4578ef49fe7f2f21775cca551bdb47a61b8"
+ },
+ "TanKaizokuO/learning_webD": {
+  "additions": 620513,
+  "deletions": 0,
+  "oid": "98ce53aba3561d65c4ffd50b02fe84d2b9af19e4"
+ },
+ "TanKaizokuO/llm-engineering": {
+  "additions": 594728,
+  "deletions": 1326,
+  "oid": "d8357efd6e2e7074c27826642b265e1dc185e1e9"
+ },
+ "TanKaizokuO/llm-server": {
+  "additions": 11487,
+  "deletions": 1136,
+  "oid": "503769ee98e8ef9c36d9f5c73997589e51afacac"
+ },
+ "TanKaizokuO/mint-config": {
+  "additions": 3709,
+  "deletions": 0,
+  "oid": "a534c389db9f664a7c173c1dcc313965842f2e4d"
+ },
+ "TanKaizokuO/ml-specialization-andrew-ng": {
+  "additions": 36091,
+  "deletions": 1,
+  "oid": "9a0d6b6565a0730a8c3e3579a701ba2869b63b48"
+ },
+ "TanKaizokuO/movie_recommendation_system": {
+  "additions": 12106,
+  "deletions": 25,
+  "oid": "ed8de64c43f6b5e4013ce5116f241c8fed7845b5"
+ },
+ "TanKaizokuO/nakama": {
+  "additions": 16386,
+  "deletions": 4893,
+  "oid": "2e3cb490fd6b00fcbed89a9b3906ce083071dfbf"
+ },
+ "TanKaizokuO/nakama_kun": {
+  "additions": 54487,
+  "deletions": 3415,
+  "oid": "08cb770ac70607e452363c096115c75bd413c764"
+ },
+ "TanKaizokuO/notes-new": {
+  "additions": 44499,
+  "deletions": 333,
+  "oid": "242bef88a7d41a13aa28a9feea73489889b21b5d"
+ },
+ "TanKaizokuO/opensource-chatbot": {
+  "additions": 1273,
+  "deletions": 604,
+  "oid": "3ba2c1d5b84816965feb2a6f5755c33f73a31cf1"
+ },
+ "TanKaizokuO/pass-store": {
+  "additions": 162,
+  "deletions": 0,
+  "oid": "35bc2dd878b580d0a8f0a8156a88e44b740d7a64"
+ },
+ "TanKaizokuO/portfolio": {
+  "additions": 11976,
+  "deletions": 2644,
+  "oid": "187c2e6face81ca814d5c170f0153d093f07c2a9"
+ },
+ "TanKaizokuO/python-roadmap": {
+  "additions": 7826,
+  "deletions": 1251,
+  "oid": "7fc48c763f6a099a004a586e014775b6c4211cb6"
+ },
+ "TanKaizokuO/react-learn": {
+  "additions": 70051,
+  "deletions": 0,
+  "oid": "215834885720c50d7cb2781d5b3c88e9d522e924"
+ },
+ "TanKaizokuO/research-assistant": {
+  "additions": 16400,
+  "deletions": 5419,
+  "oid": "5a29271b5c4c17879629c0aac24ed448bf4838d2"
+ },
+ "TanKaizokuO/setup-git": {
+  "additions": 12,
+  "deletions": 2,
+  "oid": "7fea288a2c05ea44168938ed6794322736d0cdae"
+ },
+ "TanKaizokuO/tic-tac-toe": {
+  "additions": 462,
+  "deletions": 0,
+  "oid": "fb7f211625698b92b95c7ecbcdd72c47feca8198"
+ },
+ "TanKaizokuO/website_to_do_basic_EDA": {
+  "additions": 16757,
+  "deletions": 16340,
+  "oid": "e751055be3083d364708ef3e601a8008ebb5ab8b"
+ }
+}

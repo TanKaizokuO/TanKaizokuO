@@ -1,0 +1,32 @@
+{
+  "user_line": "TanKaizokuO@grand-line",
+  "art_file": "luffy.txt",
+  "sections": [
+    {
+      "title": null,
+      "rows": [
+        ["OS", "Arch Linux, Android 15"],
+        ["Host", "Thousand Sunny"],
+        ["Kernel", "Gum-Gum No Mi (Paramecia)"],
+        ["Shell", "zsh 5.9"],
+        ["Editor", "Neovim, VSCode"]
+      ]
+    },
+    {
+      "title": null,
+      "rows": [
+        ["Languages", "Python, TypeScript, Rust, Go, C, SQL"],
+        ["Backend", "FastAPI, Node, PostgreSQL, Docker"],
+        ["AI / ML", "PyTorch, LangGraph, MCP, RAG, vLLM"],
+        ["Frontend", "React, Next.js, Tailwind"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "rows": [
+        ["Email", "tanishqbhattacharjee22@gmail.com"],
+        ["LinkedIn", "tanishq-bhattacharjee-44ba7b325"]
+      ]
+    }
+  ]
+}
