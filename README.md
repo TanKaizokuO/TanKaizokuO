@@ -134,10 +134,10 @@ A CLI and two reference servers built to compare the **MCP `2025-11-25`** specif
 
 ---
 
-## ⚙️ [Nakama](https://github.com/TanKaizokuO/nakama) — Agent runtime in Rust
+## 🔬 [Research Assistant](https://github.com/TanKaizokuO/research-assistant) — Multi-source literature agent grounded in page citations
 
-The systems-level counterpart to Nakama-kun: a Rust (edition 2024) agent runtime handling real-time SSE streaming across Anthropic, OpenAI, xAI, DashScope, and NVIDIA NIM behind one interface. Tool dispatch is sandboxed with strict path-scope validation to block directory traversal, external tools load over an **MCP bridge**, and transcripts compact automatically to stay inside the context window.
+A research assistant that ingests user-uploaded PDFs into a local vector store with **section-aware chunking**, then answers over hybrid dense + sparse retrieval (BM25 + cross-encoder reranking) fused via Reciprocal Rank Fusion. A **LangGraph** agent dynamically selects tools to supplement local documents with live arXiv, Semantic Scholar, and web search, streaming tokens and tool calls to the UI over SSE. Every citation traces back to an exact section and page range.
 
-**Tech:** `Rust` `tokio` `SSE Streaming` `MCP` `clap` `Python`
+**Tech:** `Python` `LangGraph` `FastAPI` `ChromaDB` `React` `SSE`
 
 ---
