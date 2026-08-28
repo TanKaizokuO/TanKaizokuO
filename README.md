@@ -1,96 +1,32 @@
-<h2 align="left">Hi 👋! My name is Tanishq, and I'm an engineering student at IIIT Naya Raipur.</h2>
+<h2 align="left">Tanishq Bhattacharjee</h2>
+
+<p align="left">
+I build production-shaped LLM systems and the backends they run on — agent runtimes, retrieval pipelines with real evaluation harnesses, and APIs that hold up under load.<br>
+Final-year CSE @ IIIT Naya Raipur. Open to <b>AI Engineer</b> and <b>Full-Stack / Backend SWE</b> roles — India or remote.
+</p>
 
 ###
 
-<p align="left">📚 I'm currently learning AgenticAI  <br>🤔 I'm looking for help with DevOps<br>💬 Ask me about AI<br>📫 How to reach me: tanishqbhattacharjee22@gmail.com</p>
+### What I work with
+
+| | |
+|---|---|
+| **Languages** | Python, TypeScript, Rust, Go, C, SQL |
+| **Backend** | FastAPI, Node/Express, PostgreSQL, REST, GraphQL, SSE/WebSockets, Docker |
+| **Frontend** | React, Next.js, TypeScript, Tailwind |
+| **AI / ML** | PyTorch, Hugging Face, LangGraph, LangChain, MCP, RAG, LLM evaluation |
+| **Practices** | OOP, concurrency, CI/CD, testing, observability |
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanKaizokuO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanKaizokuO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>  -->
-
-###
-
-<!-- <div align="left">
-  <a href="https://www.linkedin.com/in/tanishq-bhattacharjee-44ba7b325/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanishq-bhattacharjee-44ba7b325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>  -->
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanKaizokuO/TanKaizokuO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TanKaizokuO/TanKaizokuO/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TanKaizokuO/TanKaizokuO/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TanKaizokuO.TanKaizokuO&"  />
-</div>
-
-###
+  <a href="mailto:tanishqbhattacharjee22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+  </a>
+</p>
 
 # 💻 Featured Projects
 
@@ -139,5 +75,21 @@ A CLI and two reference servers built to compare the **MCP `2025-11-25`** specif
 A research assistant that ingests user-uploaded PDFs into a local vector store with **section-aware chunking**, then answers over hybrid dense + sparse retrieval (BM25 + cross-encoder reranking) fused via Reciprocal Rank Fusion. A **LangGraph** agent dynamically selects tools to supplement local documents with live arXiv, Semantic Scholar, and web search, streaming tokens and tool calls to the UI over SSE. Every citation traces back to an exact section and page range.
 
 **Tech:** `Python` `LangGraph` `FastAPI` `ChromaDB` `React` `SSE`
+
+---
+
+## ⚙️ [Nakama](https://github.com/TanKaizokuO/nakama) — Agent runtime in Rust
+
+The same problem as Nakama-kun, solved a second time in a systems language to find out what the Python version was hiding. Multi-provider SSE streaming on **tokio**, sandboxed tool dispatch with path-scope validation on every filesystem call, an MCP bridge, and automatic transcript compaction when the context window fills.
+
+**Tech:** `Rust` `tokio` `SSE` `MCP` `async`
+
+---
+
+## 🧮 [C-Learn](https://github.com/TanKaizokuO/C-Learn) — A machine learning library in C
+
+Written to understand what the frameworks abstract away. A hand-rolled matrix type, dense layers, activations, loss functions, optimizers, and backpropagation — all from scratch in C with no external dependencies. The test suite includes **numerical gradient checking** against the analytic backward pass, and an architecture decision record explains why the sigmoid + binary-cross-entropy gradient is fused. Ships end-to-end examples: linear regression, logistic regression, and a neural network trained on the Titanic dataset.
+
+**Tech:** `C` `Makefile` `Linear Algebra` `Backpropagation`
 
 ---
