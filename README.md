@@ -19,11 +19,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
@@ -90,54 +92,52 @@
 
 ###
 
-# 💻 What I've Built
- 
-## 🤖 Nakama-kun (Autonomous AI Software Engineering Agent)
- 
-Built a production-grade autonomous coding agent using multi-agent orchestration, RAG, and Model Context Protocol (MCP), with repository-aware retrieval, long-term memory, and intelligent tool routing across a Rust CLI harness and Python companion workspace. Specialized agents handle planning, code generation, verification, and self-review to solve complex software engineering tasks end-to-end.
- 
-**Tech:** `Rust` `Python` `RAG` `MCP` `Multi-Agent Systems`
- 
----
- 
-## 🔬 Research Assistant (Agentic Research Platform)
- 
-Built an AI-powered research copilot that aggregates information from web search, arXiv, and Semantic Scholar to generate literature reviews, research briefs, and citation analysis using RAG pipelines.
- 
-**Tech:** `FastAPI` `LangChain` `ChromaDB` `NVIDIA NIM` `RAG` `LLMs`
- 
----
- 
-## 📊 SybilSQL (AI Database Agent)
- 
-Built an AI-powered database agent that converts natural language into secure SQL using LangChain ReAct agents and conversational memory, enforcing access control at the database kernel level with PostgreSQL Row-Level Security and streaming reasoning traces to the client in real time.
- 
-**Tech:** `Python` `PostgreSQL RLS` `LangChain` `React` `SSE`
- 
----
- 
-## ⚔️ Crack_DSA (AI DSA Interview Coach)
- 
-Built a full-stack AI-powered DSA interview coaching platform that enforces a structured thinking loop (Understand → Think → Explain → Validate → Improve) instead of handing over solutions, backed by secure sandboxed code execution and a conversational interview agent.
- 
-**Tech:** `FastAPI` `Vanilla JS` `NVIDIA NIM` `LangChain` `E2B Sandbox`
- 
----
- 
-## 🔐 AI-Driven Quantum-Safe Secure Communication Platform
- 
-Built a hybrid post-quantum secure communication platform combining classical (X25519) and lattice-based (ML-KEM-768) cryptography with an AI-driven key management and threat detection engine running on local LLMs.
- 
-**Tech:** `FastAPI` `Next.js` `WebSockets` `X25519` `ML-KEM-768` `Ollama`
- 
----
- 
-## 🎨 Renkin (AI Frontend Design Agent)
- 
-Built a developer CLI tool designed to assist in generating, iterating, and polishing premium web frontends by codifying design principles and product context into structured markdown files, enforcing rules against 44 known generic UI anti-patterns and auditing accessibility via axe-core, all driven by localized markdown design state.
- 
-**Tech:** `CLI` `Markdown State` `Axe-core` `CSS Parsers`
+# 💻 Featured Projects
+
+## 🗄️ [Sibyl-SQL](https://github.com/TanKaizokuO/Sibyl_SQL) — Conversational Postgres with unforgeable access control
+
+A natural-language database agent where security is enforced by the database kernel, not the app layer. A LangChain **ReAct** agent plans multi-step queries while **PostgreSQL Row-Level Security** makes privilege escalation impossible by design — the agent is never trusted. Reasoning traces stream to the browser over SSE, and results auto-render as charts, tables, or choropleth maps.
+
+**Tech:** `Python` `PostgreSQL RLS` `LangChain ReAct` `React` `SSE` `Docker Compose`
 
 ---
 
+## 🧬 [Biomedical QA](https://github.com/TanKaizokuO/BioMedical_QA) — Evidence-grounded answers, measured for faithfulness
 
+A biomedical QA system that answers as **atomic claims, each attributed to the passage that supports it**, with a faithfulness verifier on top. Built as a real evaluation harness first: separate scorers for citation quality, retrieval, calibration, abstention, annotator agreement, granularity, and cost — with 30+ architecture decision records and 31 test modules recording why each choice was made.
+
+**Tech:** `Python` `vLLM` `Retrieval Cascade` `Eval Harness` `ADRs` `uv`
+
+---
+
+## 🤖 [Nakama-kun](https://github.com/TanKaizokuO/nakama_kun) — Verification-driven autonomous coding agent
+
+A terminal-first coding agent built on **LangGraph** that refuses to claim success it cannot prove. Every file write and command is cross-checked against the workspace, `pytest` logs are parsed before the agent proceeds, and an immutable evidence store grounds the final report to eliminate hallucinated results. Long-term memory (SQLite + ChromaDB) recalls past failures to steer planning. 59 test modules.
+
+**Tech:** `Python` `LangGraph` `MCP` `ChromaDB` `Typer` `RAG`
+
+---
+
+## 🌐 [Backend, from a socket to a deploy](https://github.com/TanKaizokuO/backend-curriculum) — Sixteen lessons, one real API
+
+A backend curriculum that starts at `socket.accept()` and a hand-written HTTP response, and ends at TLS, reverse proxies, and the rules a browser enforces — passing through migrations, indexing, concurrency, caching, observability, and scaling on the way. Every number in it is real output from a reproducible script: a `text_pattern_ops` B-tree taking a prefix search over 200k rows from **11.810 ms → 0.128 ms**, and N+1 going from 7× to **51× slower** than a join once 1 ms of network latency is added. Core track in Python, with a parallel Express/TypeScript track.
+
+**Tech:** `FastAPI` `PostgreSQL` `psycopg3` `Docker` `TypeScript` `Express`
+
+---
+
+## 🔌 [mcpctl](https://github.com/TanKaizokuO/MCP_2) — Reading the Model Context Protocol spec closely
+
+A CLI and two reference servers built to compare the **MCP `2025-11-25`** specification against the upcoming **`2026-07-28`** revision. Implements both sides of the change: the legacy stateful handshake with session affinity, and the new stateless core where every request is self-contained via `_meta` and `Mcp-Method` header routing — plus the OAuth flow. `--verbose` prints raw protocol frames.
+
+**Tech:** `Python` `FastAPI` `MCP` `OAuth` `Protocol Design`
+
+---
+
+## ⚙️ [Nakama](https://github.com/TanKaizokuO/nakama) — Agent runtime in Rust
+
+The systems-level counterpart to Nakama-kun: a Rust (edition 2024) agent runtime handling real-time SSE streaming across Anthropic, OpenAI, xAI, DashScope, and NVIDIA NIM behind one interface. Tool dispatch is sandboxed with strict path-scope validation to block directory traversal, external tools load over an **MCP bridge**, and transcripts compact automatically to stay inside the context window.
+
+**Tech:** `Rust` `tokio` `SSE Streaming` `MCP` `clap` `Python`
+
+---
