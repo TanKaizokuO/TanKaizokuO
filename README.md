@@ -10,23 +10,20 @@
 
 # Featured Projects
 
-### [Sibyl-SQL](https://github.com/TanKaizokuO/Sibyl_SQL) — Conversational Postgres with unforgeable access control
-Natural-language database agent where security is enforced by PostgreSQL Row-Level Security, not the app layer. ReAct planning, SSE reasoning traces, auto-rendered charts/maps.
+### [nakama_kun](https://github.com/TanKaizokuO/nakama_kun)
+Verification-driven autonomous coding agent on LangGraph: validates every mutation against the workspace and grounds reports in an immutable evidence store.
 
-### [Biomedical QA](https://github.com/TanKaizokuO/BioMedical_QA) — Evidence-grounded answers, measured for faithfulness
-Atomic-claim QA with citation attribution and a full evaluation harness: faithfulness, retrieval quality, calibration, abstention — 30+ ADRs and 31 test modules.
+### [research-assistant](https://github.com/TanKaizokuO/research-assistant)
+Multi-source research agent on LangGraph: hybrid dense + sparse RAG over user PDFs, live arXiv/Semantic Scholar/web search, and page-attributed citations streamed over SSE.
 
-### [Nakama-kun](https://github.com/TanKaizokuO/nakama_kun) — Verification-driven autonomous coding agent
-LangGraph terminal agent that refuses to claim success it can't prove. Pytest-aware, evidence-store grounded, long-term memory via SQLite + ChromaDB. 59 test modules.
+### [BioMedical_QA](https://github.com/TanKaizokuO/BioMedical_QA)
+Evidence-grounded biomedical QA: answers as atomic claims attributed to source passages, with a faithfulness verifier and a full attribution eval harness.
 
-### [Backend Curriculum](https://github.com/TanKaizokuO/backend-curriculum) — Sixteen lessons, from socket to deploy
-Starts at `socket.accept()`, ends at TLS and reverse proxies. Every benchmark is real: B-tree index taking 11.8 ms → 0.128 ms, N+1 penalty measured with added latency.
+### [mcpctl](https://github.com/TanKaizokuO/MCP_2)
+CLI plus reference servers comparing the MCP `2025-11-25` and `2026-07-28` specifications: stateful handshake vs stateless self-contained requests.
 
-### [mcpctl](https://github.com/TanKaizokuO/MCP_2) — Reading the MCP spec closely
-CLI + reference servers comparing MCP `2025-11-25` vs `2026-07-28`: stateful sessions → stateless `_meta` routing, plus OAuth. `--verbose` prints raw protocol frames.
+### [Sibyl-SQL](https://github.com/TanKaizokuO/Sibyl_SQL)
+Conversational Postgres agent: LangChain ReAct plans multi-step SQL while PostgreSQL Row-Level Security enforces access control at the database kernel.
 
-### [Nakama](https://github.com/TanKaizokuO/nakama) — Agent runtime in Rust
-Same problem as Nakama-kun, solved in Rust to find what the Python version hid. Tokio SSE streaming, sandboxed tool dispatch, MCP bridge, automatic transcript compaction.
-
-### [C-Learn](https://github.com/TanKaizokuO/C-Learn) — Machine learning library in C
-Hand-rolled matrices, dense layers, backprop, optimizers — no dependencies. Numerical gradient checking, fused sigmoid+BCE, end-to-end examples on Titanic.
+### [backend-curriculum](https://github.com/TanKaizokuO/backend-curriculum)
+Sixteen lessons that build one JSON API, from a raw socket to a deployed container. Python with FastAPI, parallel JavaScript/Express track.
