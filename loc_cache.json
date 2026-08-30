@@ -25,9 +25,9 @@
   "oid": "03731069552f8491218e8e6a1024b97261d82498"
  },
  "TanKaizokuO/BioMedical_QA": {
-  "additions": 2168970,
-  "deletions": 7915,
-  "oid": "5e2b5dc1a57bdb4a03a7bf66cd6812838da581ab"
+  "additions": 2169029,
+  "deletions": 8281,
+  "oid": "6b5686a65a438670a50debc6426828a4d721c3df"
  },
  "TanKaizokuO/C-Learn": {
   "additions": 6740,
@@ -110,9 +110,9 @@
   "oid": "32c2f1a358689e7c8496ad3a6eec3e9eea26745a"
  },
  "TanKaizokuO/Sibyl_SQL": {
-  "additions": 21975,
-  "deletions": 2935,
-  "oid": "1f971e8e1f93cf442e8d3337933d2d8c0f2558f4"
+  "additions": 21981,
+  "deletions": 3409,
+  "oid": "9b3df130362467959b50d0ab387ed6a80c524ca6"
  },
  "TanKaizokuO/Skin-Cancer-Detection": {
   "additions": 4854,
@@ -137,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "65f342b7245f1bc9385ce6fcfaea7009fb6d64bf"
+  "oid": "4885f5fdb2b9c7e88fdcfe8123072040fc3ef153"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -150,9 +150,9 @@
   "oid": "0147eea128d65183a24f18a26f2e99c4a15caacf"
  },
  "TanKaizokuO/backend-curriculum": {
-  "additions": 77292,
-  "deletions": 820,
-  "oid": "e1413949af97c1984465fb021c85080fff9ec5cc"
+  "additions": 77327,
+  "deletions": 7074,
+  "oid": "0e95407ab8c7e832ba79c1ecb54c241d6808f492"
  },
  "TanKaizokuO/devops": {
   "additions": 16531,
@@ -185,9 +185,9 @@
   "oid": "d8357efd6e2e7074c27826642b265e1dc185e1e9"
  },
  "TanKaizokuO/llm-server": {
-  "additions": 11487,
-  "deletions": 1136,
-  "oid": "503769ee98e8ef9c36d9f5c73997589e51afacac"
+  "additions": 11514,
+  "deletions": 1266,
+  "oid": "3f452cd0863a551d7e6cf28b857ef2fda160e01a"
  },
  "TanKaizokuO/mint-config": {
   "additions": 3709,
@@ -205,14 +205,14 @@
   "oid": "ed8de64c43f6b5e4013ce5116f241c8fed7845b5"
  },
  "TanKaizokuO/nakama": {
-  "additions": 16386,
-  "deletions": 4893,
-  "oid": "2e3cb490fd6b00fcbed89a9b3906ce083071dfbf"
+  "additions": 16396,
+  "deletions": 5103,
+  "oid": "7f83ed68370c99feaee66bf4513cb46e6511732d"
  },
  "TanKaizokuO/nakama_kun": {
-  "additions": 54487,
-  "deletions": 3415,
-  "oid": "08cb770ac70607e452363c096115c75bd413c764"
+  "additions": 54573,
+  "deletions": 5806,
+  "oid": "78b580c85a141b433df8b6c2b66b7005a123f88f"
  },
  "TanKaizokuO/notes-new": {
   "additions": 44499,
@@ -240,9 +240,9 @@
   "oid": "215834885720c50d7cb2781d5b3c88e9d522e924"
  },
  "TanKaizokuO/research-assistant": {
-  "additions": 16400,
-  "deletions": 5419,
-  "oid": "5a29271b5c4c17879629c0aac24ed448bf4838d2"
+  "additions": 16404,
+  "deletions": 5432,
+  "oid": "41a178d75962256b3f0b752782283fc82a64b5ae"
  },
  "TanKaizokuO/setup-git": {
   "additions": 12,
