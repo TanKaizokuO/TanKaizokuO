@@ -137,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "faa8cd9927f443e237e6bf12ad649fe40ce97e1f"
+  "oid": "49f89ac96c23dc09e65bbb1d6075b9408f7aaf4c"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -150,9 +150,9 @@
   "oid": "0147eea128d65183a24f18a26f2e99c4a15caacf"
  },
  "TanKaizokuO/backend-curriculum": {
-  "additions": 104971,
-  "deletions": 7739,
-  "oid": "7495ac17788b6bf83c23b5a3ccb88eb3497c3efd"
+  "additions": 104975,
+  "deletions": 7742,
+  "oid": "84c174535bc3ac465e162e8106225dc30694c076"
  },
  "TanKaizokuO/devops": {
   "additions": 16531,
