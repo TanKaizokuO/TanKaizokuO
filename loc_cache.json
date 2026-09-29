@@ -142,7 +142,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "0593c970bb4a3201e6eb2ef0427c214a9659ef88"
+  "oid": "757d012e85d7150cbae92b993097f812e203ae2c"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -260,9 +260,9 @@
   "oid": "7fea288a2c05ea44168938ed6794322736d0cdae"
  },
  "TanKaizokuO/sewa-setu": {
-  "additions": 16302,
-  "deletions": 436,
-  "oid": "292e4767d0a13be775abd550c25dfdaba51d3e19"
+  "additions": 16424,
+  "deletions": 484,
+  "oid": "924ffb5e10dad85638cbc428d3c62818f44c9b3b"
  },
  "TanKaizokuO/tic-tac-toe": {
   "additions": 462,
