@@ -142,7 +142,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "757d012e85d7150cbae92b993097f812e203ae2c"
+  "oid": "688bdd9e1a8302dd266fce45e57bd2aeccbbd962"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -163,6 +163,11 @@
   "additions": 104975,
   "deletions": 7742,
   "oid": "84c174535bc3ac465e162e8106225dc30694c076"
+ },
+ "TanKaizokuO/claude-skills": {
+  "additions": 768,
+  "deletions": 0,
+  "oid": "e6b4d982343f22e229cb7fc5fbabd9f988bdb7c6"
  },
  "TanKaizokuO/devops": {
   "additions": 16531,
