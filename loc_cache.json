@@ -137,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "437cd44b54298273fdc2a23d6d3db97212ba362d"
+  "oid": "2b0c178f6689ce3e920941bfa33a1da7f45f8d04"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -150,9 +150,9 @@
   "oid": "0147eea128d65183a24f18a26f2e99c4a15caacf"
  },
  "TanKaizokuO/agrawal-samaj-privacy-policy": {
-  "additions": 3164,
-  "deletions": 8,
-  "oid": "a0cdc80d4662e3a8f465740abd7f760e6821e280"
+  "additions": 3183,
+  "deletions": 27,
+  "oid": "457a615aa3bbf64db3d637bc1aca32d19a3c7b00"
  },
  "TanKaizokuO/backend-curriculum": {
   "additions": 105323,
@@ -160,9 +160,9 @@
   "oid": "de1530998606297df3b034d8052a378a8686e8af"
  },
  "TanKaizokuO/claude-skills": {
-  "additions": 1594,
-  "deletions": 24,
-  "oid": "d1d828289fe96cbc5f48d184458e544523f57ad9"
+  "additions": 3879,
+  "deletions": 61,
+  "oid": "e6b9765f82d4c1a8db42715dbf796e8f4a0a5f8a"
  },
  "TanKaizokuO/devops": {
   "additions": 16531,
