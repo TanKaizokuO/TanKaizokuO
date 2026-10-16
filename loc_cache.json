@@ -137,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "2b0c178f6689ce3e920941bfa33a1da7f45f8d04"
+  "oid": "437a44f86ea9cbd81f448adcf3a5a97668b7d50e"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -270,9 +270,9 @@
   "oid": "fb7f211625698b92b95c7ecbcdd72c47feca8198"
  },
  "TanKaizokuO/token-tracker": {
-  "additions": 3091,
-  "deletions": 466,
-  "oid": "9008c126aab12d841e47e3254d5ffee6d8d19876"
+  "additions": 5834,
+  "deletions": 983,
+  "oid": "9b2624efba3ee54b2d0e911cd27967079c37ef2c"
  },
  "TanKaizokuO/website_to_do_basic_EDA": {
   "additions": 16757,
