@@ -137,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "409acef23b91769d3408871e07a074ca670e4dc2"
+  "oid": "f377347072b0c513638d4149bbd9ffcea91d35e4"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -160,9 +160,9 @@
   "oid": "de1530998606297df3b034d8052a378a8686e8af"
  },
  "TanKaizokuO/claude-skills": {
-  "additions": 3879,
-  "deletions": 61,
-  "oid": "e6b9765f82d4c1a8db42715dbf796e8f4a0a5f8a"
+  "additions": 4363,
+  "deletions": 238,
+  "oid": "18c6eb3114b3fb64fe9f4fbc2869c288e6c98e32"
  },
  "TanKaizokuO/devops": {
   "additions": 16531,
@@ -270,9 +270,9 @@
   "oid": "fb7f211625698b92b95c7ecbcdd72c47feca8198"
  },
  "TanKaizokuO/token-tracker": {
-  "additions": 5834,
-  "deletions": 983,
-  "oid": "9b2624efba3ee54b2d0e911cd27967079c37ef2c"
+  "additions": 5981,
+  "deletions": 984,
+  "oid": "fb03f7f775cefa5a81485af0a5dc5e72c5e42aa7"
  },
  "TanKaizokuO/website_to_do_basic_EDA": {
   "additions": 16757,
