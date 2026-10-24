@@ -137,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "5914129375bf1379ead53479492c5d3da8b4eb66"
+  "oid": "3b1cff988abcc42e57e4e8d53fcbab129ffae7c6"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
@@ -148,11 +148,6 @@
   "additions": 3376,
   "deletions": 0,
   "oid": "0147eea128d65183a24f18a26f2e99c4a15caacf"
- },
- "TanKaizokuO/agrawal-samaj-privacy-policy": {
-  "additions": 3183,
-  "deletions": 27,
-  "oid": "457a615aa3bbf64db3d637bc1aca32d19a3c7b00"
  },
  "TanKaizokuO/backend-curriculum": {
   "additions": 105323,
@@ -200,9 +195,9 @@
   "oid": "3f452cd0863a551d7e6cf28b857ef2fda160e01a"
  },
  "TanKaizokuO/mint-config": {
-  "additions": 3709,
-  "deletions": 0,
-  "oid": "a534c389db9f664a7c173c1dcc313965842f2e4d"
+  "additions": 3749,
+  "deletions": 1,
+  "oid": "d5ec1d6b7c81b530c626476162bec5af460e5f27"
  },
  "TanKaizokuO/ml-specialization-andrew-ng": {
   "additions": 36091,
