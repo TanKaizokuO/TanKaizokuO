@@ -14,11 +14,6 @@
   "deletions": 530,
   "oid": "d5277dba0101354eb7e3b1514264653481d3ceed"
  },
- "TanKaizokuO/Agrawal_Frontend": {
-  "additions": 159150,
-  "deletions": 53237,
-  "oid": "cc99599d1fc611b43c50ae7742ce9d02e001e04e"
- },
  "TanKaizokuO/AnchorAI": {
   "additions": 1030,
   "deletions": 333,
@@ -142,7 +137,7 @@
  "TanKaizokuO/TanKaizokuO": {
   "additions": 1379,
   "deletions": 449,
-  "oid": "456ad0bd61ea7c2bba812ddc45e10d3460931e92"
+  "oid": "c37532ae1d3179c141cc1fa19e5dd135b30c67be"
  },
  "TanKaizokuO/V-Epsilon": {
   "additions": 209,
