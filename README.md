@@ -19,8 +19,8 @@ Multi-source research agent on LangGraph: hybrid dense + sparse RAG over user PD
 ### [BioMedical_QA](https://github.com/TanKaizokuO/BioMedical_QA)
 Evidence-grounded biomedical QA: answers as atomic claims attributed to source passages, with a faithfulness verifier and a full attribution eval harness.
 
-### [mcpctl](https://github.com/TanKaizokuO/MCP_2)
-CLI plus reference servers comparing the MCP `2025-11-25` and `2026-07-28` specifications: stateful handshake vs stateless self-contained requests.
+### [hue](https://github.com/TanKaizokuO/hue)
+Wallpaper-to-theme engine with a CLI and GTK4 GUI: generates a palette, checks contrast, and applies it to detected Linux apps through journalled hooks with one-step undo.
 
 ### [Sibyl-SQL](https://github.com/TanKaizokuO/Sibyl_SQL)
 Conversational Postgres agent: LangChain ReAct plans multi-step SQL while PostgreSQL Row-Level Security enforces access control at the database kernel.

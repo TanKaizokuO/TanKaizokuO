@@ -5,7 +5,7 @@
     {
       "title": null,
       "rows": [
-        ["OS", "Arch Linux, Android 15"],
+        ["OS", "Linux Mint 22.2, Android 15"],
         ["Host", "Thousand Sunny"],
         ["Kernel", "Gum-Gum No Mi (Paramecia)"],
         ["Shell", "zsh 5.9"],
@@ -15,16 +15,16 @@
     {
       "title": null,
       "rows": [
-        ["Languages", "Python, TypeScript, Rust, Go, C, SQL"],
+        ["Languages", "Python, TypeScript, Rust, Go, C, SQL, Shell"],
         ["Backend", "FastAPI, Node, PostgreSQL, Docker"],
         ["AI / ML", "PyTorch, LangGraph, MCP, RAG, vLLM"],
-        ["Frontend", "React, Next.js, Tailwind"]
+        ["Frontend", "React, Next.js, Tailwind, GTK4"]
       ]
     },
     {
       "title": "Contact",
       "rows": [
-        ["Email", "tanishqbhattacharjee22@gmail.com"],
+        ["Email", "tanishqbhattacharjee03@gmail.com"],
         ["LinkedIn", "tanishq-bhattacharjee-44ba7b325"]
       ]
     }
